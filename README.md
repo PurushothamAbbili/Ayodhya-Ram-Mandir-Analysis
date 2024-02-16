@@ -1,6 +1,8 @@
 # **Ayodhya Ram Mandir**
 
-![Ayodhya Ram Mandir]([https://example.com/ayodhya_ram_mandir.jpg](https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/042e90113177399.6022afd253976.jpg))
+![Ayodhya Ram Mandir]
+(<p align="center">
+<img src="https://github.com/PurushothamAbbili/Ayodhya-Ram-Mandir-Analysis/blob/cac519aece7764398006ae572428510b9f8a9680/Temple.jpg" alt="image")
 
 **The Ayodhya Ram Mandir, also known as the Ram Janmabhoomi Mandir, is a Hindu temple located in the city of Ayodhya, Uttar Pradesh, India. It is dedicated to Lord Rama, a prominent deity in Hinduism, and is believed to be the birthplace of Lord Rama.**
 
